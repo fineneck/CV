@@ -195,10 +195,9 @@ margin-bottom: 10px;
 /* sidebar styles */
 
 .sidebar {
-    background-color: #1E2939;
+    background-color: #000;
     padding-top: 20px;
     width: 370px;
-
 }
 
 .photo {
